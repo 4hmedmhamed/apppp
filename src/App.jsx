@@ -148,9 +148,9 @@ const categories = [
           }}
         >
           {/* Left Text Segment */}
-          <div className="position-relative z-1" style={{ maxWidth: '520px' }}>
+          <div className="position-relative z-1" style={{ maxWidth: '900px' , height:'80vh' }}>
    
-         <img src={baner} alt="Logo"  style={{ maxWidth: '900px' }}/>
+         <img src={baner} alt="Logo"  style={{ maxWidth: '100%' , height:'100vh' }}/>
 
             {/* <p className="fs-4 text-white-50 mb-4 fw-light">Curated spaces, delivered</p> */}
 
@@ -173,12 +173,12 @@ const categories = [
 
         <iframe 
             src="https://that-app.vercel.app" 
-            title="فيديو يوتيوب"
+            title=" "
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen
               style={{
               width: '100%',
-              height:'70vh'
+               height:'80vh'
             
             }}
 
