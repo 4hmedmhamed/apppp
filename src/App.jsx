@@ -1,10 +1,26 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+
+
+
+// import React from 'react';
+// import ProductShelves from './ProductShelves';
+// import ProductDetailView from "./ProductDetailView";
+// import BinkeyitHome from "./BinkeyitHome"
+// import CategoryView from "./CategoryView"
+// import Footer from './Footer';
+import baner from "./baner.png"
+import Logo from "./logo.png"
+
+
+
+
+
 import './App.css'
 
 function App() {
+
+
+  
   const [count, setCount] = useState(0)
 const categories = [
   { 
@@ -78,8 +94,7 @@ const categories = [
   return (
 <>
 <div className='bg-success'>
-impootstrap/dist/css/bootstrap.mi
-
+wwswswswswsw
 </div>
 </>
   )
